@@ -8,7 +8,7 @@
 
 - [ci/cd](https://github.com/jennerdulce/api-server/actions) (GitHub Actions)
 - [Pull Request](https://github.com/jennerdulce/api-server/pull/1)
-- [HEROKU App](https://jennerdulce-api-server.herokuapp.com/)
+- [HEROKU App](https://jennerdulce-basic-auth.herokuapp.com/)
 
 ### Setup
 
