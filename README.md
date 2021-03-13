@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/jennerdulce/api-server/actions) (GitHub Actions)
-- [Pull Request](https://github.com/jennerdulce/api-server/pull/1)
+- [ci/cd](https://github.com/jennerdulce/basic-auth/actions) (GitHub Actions)
+- [Pull Request](https://github.com/jennerdulce/basic-auth/pull/1)
 - [HEROKU App](https://jennerdulce-basic-auth.herokuapp.com/)
 
 ### Setup
